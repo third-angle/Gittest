@@ -1,1 +1,2 @@
-Added first line of text to this file.
+Added first line of text.
+Add more text to the second line and delete some from the first line.
